@@ -1,6 +1,6 @@
 # Canban System
 
-https://ev-climb.github.io/sneakers/
+https://ev-climb.github.io/canban/
 
 ## Описание проекта
 
